@@ -6,7 +6,7 @@ Hi, thank you for reading this.
 
 ## How to set up.
 
-Just create a new `.py` script and put the content in `index.py` into it.
+Just create a new `.py` script and paste the content in `index.py` into it.
 
 > This was developed with Python 3.9.1, I'm not sure on how it would run on older versions. If it doesn't work on your version, let me know!
 
