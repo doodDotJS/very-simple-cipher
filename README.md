@@ -12,5 +12,5 @@ Just create a new `.py` script and put the content in `index.py` into it.
 
 ## How to use:
 
-Just follow the prompts. Simple.
+A black command line window will appear. Just follow the prompts.
 If you want to change a setting, open the `index.py` and go to line 86.
