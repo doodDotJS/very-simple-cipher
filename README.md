@@ -2,6 +2,7 @@
 
 Hi, thank you for reading this.
 
+> Please note that this script is not perfect and can be buggy.
 > Please **DO NOT** use this to encrypt any real information. It's really not effective for real life situations.
 
 ## How to set up.
